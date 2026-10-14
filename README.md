@@ -165,7 +165,3 @@ I focus on frontend architecture, reusable components, performance optimization,
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:161B22,100:0D1117&height=100&section=footer" width="100%" alt="Decorative footer" />
 </p>
-
-<p align="center">
-  <i>“Thoughtful architecture. Clean code. Meaningful experiences.”</i>
-</p>
